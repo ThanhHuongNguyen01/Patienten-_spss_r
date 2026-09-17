@@ -1,0 +1,7 @@
+data/Patientienzufriedenheit_Daten.csv
+Name,Alter,Geschlecht,Wartezeit,Arzte_Erklaerung,Pflege_Freundlichkeit,Gesamtzufriedenheit,Verbesserungswvorschlag
+Anna Schmidt,45,Weiblich,30,5,4,5,Keine Verbesserung nötig, alles super.
+Max Mustermann,60,Männlich,60,3,4,4,Wartezeit im Wartezimmer verkürzen.
+Maria Weber,34,Weiblich,15,5,5,5,Sehr nettes Personal.
+Hans Müller,52,Männlich,45,4,3,4,Mehr Parkplätze wären gut.
+Julia Becker,28,Weiblich,20,5,5,5,Alles bestens verlaufen.
